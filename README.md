@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Shai 👋🏼 💻
 
-<!--
-**ShaiDemri/ShaiDemri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/ShaiDemri/ShaiDemri/master/banner.png" alt="banner that says Shai Demri - a full stack developer">
+  I'm a full-stack developer proficient in Javascript, React JS and Node JS.
 
-Here are some ideas to get you started:
+  I have a Bs.C in computer science from Ben-Gurion University of the Negev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Shai's github stats](https://github-readme-stats.vercel.app/api?username=shaidemri&show_icons=true&count_private=true&theme=buefy)
+
+- 🔭 I’m currently looking for a new software developement position.
+- 🌱 I’m currently learning Docker, Kubernetes, microservices and anything in between.
+- 👯 I’m looking to collaborate on React based web apps.
+- ⚡ Fun fact: You can't sneeze with your eyes open.
